@@ -1,0 +1,6 @@
+framework module Pods_PizzaPush {
+  umbrella header "Pods-PizzaPush-umbrella.h"
+
+  export *
+  module * { export * }
+}
