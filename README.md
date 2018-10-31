@@ -1,7 +1,7 @@
-# Getting-started-with-vapor-and-pusher-beams-IOS
+# Getting started with vapor and pusher beams IOS
 
 An example project that accompanies my tutorial on using Getting started with vapor and pusher beams.
-Tutorial: http://blog.pusher.com/quick-nimble-testing-ios/ 
+Tutorial: https://pusher.com/tutorials/vapor-push-notifications
 
 ## Getting Started
 
